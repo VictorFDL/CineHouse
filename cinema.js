@@ -43,6 +43,7 @@ function buscarFilmes(codigo){
 let filmeEscolhido = catalogo.find(buscarFilmes(1))
 console.log(`O filme buscado foi "${filmeEscolhido.titulo}", sua duração é de ${filmeEscolhido.duracao} minutos. Seu ano de lançamento é: ${filmeEscolhido.anoDeLancamento}`)
 
+console.log("Psyke lindo!")
 //   ****FUNÇÃO PARA  ****
 // A função deve receber como parâmetro o número identificador do filme
 // escolhido, buscar o filme com base no parâmetro recebido e alterar o status
