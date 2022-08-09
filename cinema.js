@@ -46,7 +46,7 @@ function buscarFilme(cod) {
     }
 }
 
-buscarFilme(5)
+buscarFilme(2)
 
 //   ****FUNÇÃO PARA  ****
 // A função deve receber como parâmetro o número identificador do filme
